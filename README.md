@@ -5,7 +5,7 @@
 
 ## 项目结构
 ```plaintext
-fsg_fin_indicator/
+fin_indicator/
 ├── src/                  # 源代码目录
 │   ├── main.py           # 主程序入口
 │   ├── mcp_server.py     # MCP服务入口
@@ -15,7 +15,7 @@ fsg_fin_indicator/
 │       ├── __init__.py
 │       └── metric_model.py
 ├── lib/                  # 库文件
-├── reference/            # 参考资料
+├── reference/            # 参考资料（组织机构树、问题数据集、测试数据parquet等）
 ├── .gitignore            # Git忽略文件
 ├── .python-version       # Python版本文件
 ├── pyproject.toml        # Python项目配置

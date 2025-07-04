@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.env
+data/data.sql
+kuzudb/
+reference/
+src/make_graph/dm_incm_cost_dtl_rpt.py

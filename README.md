@@ -1,11 +1,11 @@
-# 财务指标说明
+# 财务指标查询
 
 ## 项目概述
 本项目是一个指标分析LLM生成工具，提供命令行问答界面和MCP服务接口。
 
 ## 项目结构
 ```plaintext
-fin_indicator/
+fin_metrics_query/
 ├── src/                  # 源代码目录
 │   ├── main.py           # 主程序入口
 │   ├── mcp_server.py     # MCP服务入口
